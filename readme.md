@@ -1,3 +1,3 @@
 #git learning
 
-this is from bug branch
+this is from feature branch
